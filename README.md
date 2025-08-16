@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Springboot, Advance DSA**
 
-- 👨‍💻 All of my projects are available at [portfolio-wizdomics-projects.vercel.app](portfolio-wizdomics-projects.vercel.app)
-
 - 💬 Ask me about **anything If I know, I share; if not, I find out.**
 
 - 📫 How to reach me **naskarrahul620@gmail.com**
